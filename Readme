@@ -1,0 +1,21 @@
+Messwagen für die Modellbahn
+
+Wer möchte nicht gerne wissen, welche Strecke die Modellbahn zurückgelegt hat oder wie schnell sie gerade fährt.
+Dazu gibt es schon einige Ideen, die mir auch ganz gut gefallen haben. Ich habe das Projekt nun für mich weiterentwickelt, da ich
+die Anzeige nicht auf dem fahrenden Waggon haben wollte, sondern stationär auf meinem Handy.
+Die Daten werden dazu mittels Bluetooth vom Messwagen zum Handy übertragen. Die Hardware kann sehr gut im Waggon versteckt werden.
+Man sieht eigentlich gar nichts mehr.
+ 
+Um das Projekt umzusetzen, habe ich eine App für Android Handys programmiert, die die Signale des Messwagens empfangen und bequem
+am Handydisplay darstellen kann. Man kann so Geschwindigkeit, Maximalgeschwindigkeit und zurückgelegten Weg gut erkennen.
+
+Es gibt Einstellmöglichkeiten für Raddurchmesser und Maßstab der Modellbahn.
+Sonst ist die App recht einfach aufgebaut. Man wählt das Bluetooth-Device aus und koppelt so Handy und Messwagen.
+Mit den On bzw. Off Buttons kann man einstellen, ob die Messung im Messwagen erfolgen soll, oder ob man eine Messpause möchte,
+obwohl der Waggon noch weiter fährt.
+
+Hier gibt's eine Bauanleitung, sie die Software für Handy und Arduino.
+
+Ich habe alles für mich selbst und nach bestem Wissen und Gewissen gebaut.
+Ich übernehme keine Haftung für die Funktionsfähigkeit des Bauplanes oder Schäden die an Komponenten oder dem Handy eventuell
+entstehen könnten.
