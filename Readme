@@ -16,6 +16,10 @@ obwohl der Waggon noch weiter fährt.
 
 Hier gibt's eine Bauanleitung, sie die Software für Handy und Arduino.
 
+Anleitung: messwagen.pdf
+Hex-File für Arduino 8MHz: messwagen_bt.hex (Alternativ: messwagen_bt.ino für Arduino IDE)
+Handy App für Android =>4.0: messwagen.apx
+
 Ich habe alles für mich selbst und nach bestem Wissen und Gewissen gebaut.
 Ich übernehme keine Haftung für die Funktionsfähigkeit des Bauplanes oder Schäden die an Komponenten oder dem Handy eventuell
 entstehen könnten.
